@@ -1,2 +1,4 @@
 whisper-timestamped
 pandas
+sentence-transformers
+scikit-learn
