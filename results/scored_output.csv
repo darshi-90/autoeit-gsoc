@@ -1,0 +1,31 @@
+﻿target,transcript,similarity,score
+Quiero cortarme el pelo,Me gustan las películas que acaban bien,0.23169228,1
+El libro está en la mesa,Le pedí a un amigo que me ayudara con la tarea,0.4427641,2
+El carro lo tiene Pedro,El chico con el que yo salgo es español,0.6476326,3
+El se ducha cada mañana,"Antes de poder salir, él tiene que limpiar su cuarto",0.4797162,2
+¿Qué dice usted que va a hacer hoy?,¿Qué dice usted que va a hacer hoy?,1.0,5
+Dudo que sepa manejar muy bien,Dudo que sepa manejar muy bien,0.9999999,5
+Las calles de esta ciudad son muy anchas,Las calles de esta ciudad son muy anchas,0.9999999,5
+Puede que llueva mañana todo el día,Puede que llueva mañana todo el día,1.0,5
+Las casas son muy bonitas pero caras,Las casas son muy bonitas pero caras,1.0000002,5
+Me gustan las películas que acaban bien,Me gustan las películas que acaban bien,0.9999999,5
+El chico con el que yo salgo es español,El chico con el que yo salgo es español,0.9999999,5
+Después de cenar me fui a dormir tranquilo,Después de cenar me fui a dormir tranquilo,0.9999999,5
+Quiero una casa en la que vivan mis animales,Quiero una casa en la que vivan animales,0.97697455,5
+A nosotros nos fascinan las fiestas grandiosas,Las casas son muy bonitas pero caras,0.33307573,1
+Ella sólo bebe cerveza y no come nada,Ella solo bebe cerveza y no come nada,0.9993343,5
+Me gustaría que el precio de las casas bajara,Me gustaría que el precio de las casas bajara,1.0,5
+Cruza a la derecha y después sigue todo recto,Cruza a la derecha y después sigue todo recto,1.0,5
+Ella ha terminado de pintar su apartamento,Ella ha terminado de pintar su apartamento,1.0,5
+Me gustaría que empezara a hacer más calor pronto,Puede que llueva mañana todo el día,0.41987088,2
+El niño al que se le murió el gato está triste,El niño al que se le murió el gato está triste,0.99999994,5
+Una amiga mía cuida a los niños de mi vecino,"Antes de poder salir, él tiene que limpiar su cuarto",0.36403757,1
+El gato que era negro fue perseguido por el perro,El gato que era negro,0.75500655,4
+Antes de poder salir él tiene que limpiar su cuarto,"Antes de poder salir, él tiene que limpiar su cuarto",0.99454415,5
+La cantidad de personas que fuman ha disminuido,La cantidad de personas que fuman ha disminuido,0.9999999,5
+Después de llegar a casa del trabajo tomé la cena,Después de cenar me fui a dormir tranquilo,0.728565,3
+El ladrón al que atrapó la policía era famoso,El ladrón que atrapó la policía era famoso,0.99917746,5
+Le pedí a un amigo que me ayudara con la tarea,Le pedí a un amigo que me ayudara con la tarea,1.0,5
+El examen no fue tan difícil como me habían dicho,El examen no fue tan difícil como me habían dicho,1.0,5
+¿Serías tan amable de darme el libro que está en la mesa?,Le pedí a un amigo que me ayudara con la tarea,0.46649233,2
+Hay mucha gente que no toma nada para el desayuno,Ella solo bebe cerveza y no come nada,0.37098417,1
