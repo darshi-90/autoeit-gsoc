@@ -26,9 +26,9 @@ File: results/final_transcriptions.csv
 How to run:
 Install dependencies:
 pip install -r requirements.txt
-
 Run the notebook:
 notebooks/test1_transcription.ipynb
+Note: Audio files are not included in this repository. Please use the AutoEIT sample dataset and update the file path in the notebook accordingly.
 
 Notes / Observations:
 -Whisper sometimes produces repeated or noisy tokens in silent regions
