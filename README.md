@@ -28,7 +28,7 @@ Install dependencies:
 pip install -r requirements.txt
 Run the notebook:
 notebooks/test1_transcription.ipynb
-Note: Audio files are not included in this repository. Please use the AutoEIT sample dataset and update the file path in the notebook accordingly.
+Note: The dataset files (audio and transcription Excel) are not included in this repository. Please use the AutoEIT sample dataset and update file paths in the notebook accordingly.
 
 Notes / Observations:
 -Whisper sometimes produces repeated or noisy tokens in silent regions
@@ -39,3 +39,12 @@ Future Improvements:
 -Better sentence segmentation (possibly using alignment techniques)
 -Fine-tuning ASR for learner speech
 -Extending this pipeline for automated scoring (Test II)
+
+
+Test II (Automated Scoring):
+Implemented a scoring system to evaluate learner responses based on meaning similarity.
+Since the transcribed responses were not aligned with the original stimulus order, I used semantic similarity to match each target sentence with the most relevant learner response.
+Scoring is based on similarity thresholds to allow partial credit for responses that preserve meaning.
+
+The final output is available in:
+results/scored_output.csv
